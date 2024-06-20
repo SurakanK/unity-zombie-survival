@@ -1,0 +1,62 @@
+{
+  "abilitis": [
+    {
+      "id": "slowsArmy",
+      "trigger": ["attack"],
+      "action": {
+        "dulation": 3,
+        "target": "other"
+      }
+    },
+    {
+      "id": "Bleeding",
+      "trigger": ["attack"],
+      "action": {
+        "dulation": 5,
+        "target": "other"
+      }
+    },
+    {
+      "id": "Runner",
+      "trigger": ["start"],
+      "action": {
+        "speed": 10,
+        "target": "self"
+      }
+    },
+    {
+      "id": "Poisons",
+      "trigger": ["start"],
+      "action": {
+        "spawnAmount": 3,
+        "cooldown": 15,
+        "dulation": 3,
+        "target": "other"
+      }
+    },
+    {
+      "id": "Stun",
+      "trigger": ["attack"],
+      "action": {
+        "dulation": 2,
+        "target": "other"
+      }
+    },
+    {
+      "id": "StrongAttack",
+      "trigger": ["equip"],
+      "action": {
+        "attack": 10,
+        "target": "self"
+      }
+    },
+    {
+      "id": "Shield",
+      "trigger": ["start"],
+      "action": {
+        "defense": 300,
+        "target": "self"
+      }
+    }
+  ]
+}

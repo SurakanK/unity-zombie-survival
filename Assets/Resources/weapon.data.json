@@ -1,0 +1,302 @@
+{
+  "pistols": [
+    {
+      "id": "beretta92",
+      "damage": 15,
+      "attackRate": 0.7
+    },
+    {
+      "id": "colt1911",
+      "damage": 20,
+      "attackRate": 0.6
+    },
+    {
+      "id": "DesertEagle",
+      "damage": 50,
+      "attackRate": 1.2
+    },
+    {
+      "id": "glock",
+      "damage": 10,
+      "attackRate": 0.5
+    },
+    {
+      "id": "p226",
+      "damage": 25,
+      "attackRate": 0.8
+    },
+    {
+      "id": "usp45",
+      "damage": 30,
+      "attackRate": 0.9
+    }
+  ],
+  "assaultRifles": [
+    {
+      "id": "ak47",
+      "damage": 35,
+      "attackRate": 0.4
+    },
+    {
+      "id": "ak47_double_drum",
+      "damage": 35,
+      "attackRate": 0.4
+    },
+    {
+      "id": "ak47_drum_mag",
+      "damage": 35,
+      "attackRate": 0.4
+    },
+    {
+      "id": "aksu74",
+      "damage": 30,
+      "attackRate": 0.5
+    },
+    {
+      "id": "aug",
+      "damage": 40,
+      "attackRate": 0.35
+    },
+    {
+      "id": "famas",
+      "damage": 30,
+      "attackRate": 0.45
+    },
+    {
+      "id": "fn_fal",
+      "damage": 45,
+      "attackRate": 0.6
+    },
+    {
+      "id": "g3",
+      "damage": 40,
+      "attackRate": 0.5
+    },
+    {
+      "id": "g03c",
+      "damage": 35,
+      "attackRate": 0.4
+    },
+    {
+      "id": "g36k",
+      "damage": 35,
+      "attackRate": 0.4
+    },
+    {
+      "id": "galil",
+      "damage": 35,
+      "attackRate": 0.4
+    },
+    {
+      "id": "L85",
+      "damage": 35,
+      "attackRate": 0.4
+    },
+    {
+      "id": "L85_scoped",
+      "damage": 35,
+      "attackRate": 0.4
+    },
+    {
+      "id": "m4",
+      "damage": 35,
+      "attackRate": 0.35
+    },
+    {
+      "id": "m4_carbine",
+      "damage": 35,
+      "attackRate": 0.35
+    },
+    {
+      "id": "m4_custom",
+      "damage": 35,
+      "attackRate": 0.35
+    },
+    {
+      "id": "m4a1",
+      "damage": 35,
+      "attackRate": 0.35
+    },
+    {
+      "id": "scar",
+      "damage": 40,
+      "attackRate": 0.4
+    },
+    {
+      "id": "sg552",
+      "damage": 35,
+      "attackRate": 0.4
+    },
+    {
+      "id": "type97",
+      "damage": 30,
+      "attackRate": 0.5
+    }
+  ],
+  "sniperRifles": [
+    {
+      "id": "awp",
+      "damage": 90,
+      "attackRate": 1.5
+    },
+    {
+      "id": "barret",
+      "damage": 100,
+      "attackRate": 2.0
+    },
+    {
+      "id": "m21",
+      "damage": 85,
+      "attackRate": 1.2
+    },
+    {
+      "id": "m110",
+      "damage": 85,
+      "attackRate": 1.2
+    },
+    {
+      "id": "psg1",
+      "damage": 80,
+      "attackRate": 1.0
+    },
+    {
+      "id": "ssg300",
+      "damage": 75,
+      "attackRate": 0.9
+    },
+    {
+      "id": "svd",
+      "damage": 85,
+      "attackRate": 1.1
+    }
+  ],
+  "submachineGuns": [
+    {
+      "id": "mp5",
+      "damage": 25,
+      "attackRate": 0.3
+    },
+    {
+      "id": "mp5_k",
+      "damage": 25,
+      "attackRate": 0.3
+    },
+    {
+      "id": "mp5_sil",
+      "damage": 25,
+      "attackRate": 0.3
+    },
+    {
+      "id": "mp7",
+      "damage": 20,
+      "attackRate": 0.25
+    },
+    {
+      "id": "p90",
+      "damage": 20,
+      "attackRate": 0.25
+    },
+    {
+      "id": "ump45",
+      "damage": 30,
+      "attackRate": 0.1,
+      "attackArea": 10,
+      "bulletSpeed": 30,
+      "bulletType": 0
+    }
+  ],
+  "machineGuns": [
+    {
+      "id": "m249",
+      "damage": 35,
+      "attackRate": 0.5
+    },
+    {
+      "id": "pkm",
+      "damage": 35,
+      "attackRate": 0.5
+    }
+  ],
+  "shotguns": [
+    {
+      "id": "m3",
+      "damage": 70,
+      "attackRate": 1.0
+    },
+    {
+      "id": "shotgun",
+      "damage": 70,
+      "attackRate": 1.0
+    },
+    {
+      "id": "spas",
+      "damage": 75,
+      "attackRate": 1.1
+    },
+    {
+      "id": "xm1014",
+      "damage": 65,
+      "attackRate": 0.9
+    },
+    {
+      "id": "twobarrel",
+      "damage": 80,
+      "attackRate": 1.2
+    }
+  ],
+  "heavyWeapons": [
+    {
+      "id": "javelin",
+      "damage": 150,
+      "attackRate": 2.5
+    },
+    {
+      "id": "rpg",
+      "damage": 120,
+      "attackRate": 2.0
+    },
+    {
+      "id": "smaw",
+      "damage": 130,
+      "attackRate": 2.0
+    }
+  ],
+  "meleeWeapons": [
+    {
+      "id": "batton",
+      "damage": 15,
+      "attackRate": 0.8
+    },
+    {
+      "id": "crowbar",
+      "damage": 20,
+      "attackRate": 0.7
+    },
+    {
+      "id": "knife",
+      "damage": 25,
+      "attackRate": 0.6
+    },
+    {
+      "id": "machete",
+      "damage": 30,
+      "attackRate": 0.5
+    },
+    {
+      "id": "policebatton",
+      "damage": 15,
+      "attackRate": 0.8
+    },
+    {
+      "id": "rambo_knife",
+      "damage": 35,
+      "attackRate": 0.5
+    },
+    {
+      "id": "hand",
+      "damage": 10,
+      "attackRate": 0.5,
+      "attackArea": 1
+    }
+  ]
+}

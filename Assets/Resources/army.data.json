@@ -1,0 +1,64 @@
+{
+  "armys": [
+    {
+      "id": "Soldier",
+      "name": "Soldier",
+      "hp": 100,
+      "speed": 7,
+      "defense": 5,
+      "critical": 3,
+      "evasion": 5,
+      "accuracy": 87,
+      "appropriate_weapons": ["pistols", "assaultRifles"],
+      "abilities": ["increaseAttack", "increaseMaxhp", "grenadeThrow"]
+    },
+    {
+      "id": "Medic",
+      "name": "Medic",
+      "hp": 80,
+      "speed": 7,
+      "defense": 5,
+      "critical": 3,
+      "evasion": 5,
+      "accuracy": 87,
+      "appropriate_weapons": ["pistols"],
+      "abilities": ["healing", "shieldTeam", "reanimate"]
+    },
+    {
+      "id": "Sniper",
+      "name": "Sniper",
+      "hp": 70,
+      "speed": 7,
+      "defense": 5,
+      "critical": 3,
+      "evasion": 5,
+      "accuracy": 87,
+      "appropriate_weapons": ["pistols", "submachineGuns", "sniperRifles"],
+      "abilities": ["increaseEvade", "increaseSpeed", "increaseAttackRange"]
+    },
+    {
+      "id": "HeavyGunner",
+      "name": "Heavy Gunner",
+      "hp": 120,
+      "speed": 7,
+      "defense": 5,
+      "critical": 3,
+      "evasion": 5,
+      "accuracy": 87,
+      "appropriate_weapons": ["submachineGuns", "assaultRifles", "heavyWeapons"],
+      "abilities": ["increaseCritical", "increaseDefense"]
+    },
+    {
+      "id": "Engineer",
+      "name": "Engineer",
+      "hp": 90,
+      "speed": 7,
+      "defense": 5,
+      "critical": 3,
+      "evasion": 5,
+      "accuracy": 87,
+      "appropriate_weapons": ["submachineGuns", "shotguns"],
+      "abilities": ["deployTurrets", "helicopterAttack", "repair"]
+    }
+  ]
+}

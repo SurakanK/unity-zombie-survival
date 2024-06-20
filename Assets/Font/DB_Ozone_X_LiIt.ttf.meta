@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 97a621793afa0453f8fc1d36af2b502f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - DB Ozone X
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a0e819c4621474f1d80879c7a5b262e3, type: 3}
+  - {fileID: 12800000, guid: b015be005246e48b8822e3081c329c82, type: 3}
+  - {fileID: 12800000, guid: d4ed3af9442bd4a1db8beb64ddf0b757, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

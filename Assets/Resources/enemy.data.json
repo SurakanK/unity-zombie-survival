@@ -1,0 +1,148 @@
+{
+  "enemies": [
+    {
+      "id": "ZombieWalker",
+      "name": "Zombie Walker",
+      "difficulty": "Easy",
+      "hp": 30,
+      "speed": 3.5,
+      "defense": 0,
+      "critical": 3,
+      "evasion": 5,
+      "accuracy": 87,
+      "abilities": []
+    },
+    {
+      "id": "ZombieCrawler",
+      "name": "Zombie Crawler",
+      "difficulty": "Easy",
+      "hp": 50,
+      "speed": 5,
+      "defense": 0,
+      "critical": 3,
+      "evasion": 5,
+      "accuracy": 87,
+      "abilities": ["slowsArmy"]
+    },
+    {
+      "id": "ZombieBiter",
+      "name": "Zombie Biter",
+      "difficulty": "Easy",
+      "hp": 50,
+      "speed": 3,
+      "defense": 0,
+      "critical": 3,
+      "evasion": 5,
+      "accuracy": 87,
+      "abilities": ["bleeding"]
+    },
+    {
+      "id": "ZombieRunner",
+      "name": "Zombie Runner",
+      "difficulty": "Medium",
+      "hp": 80,
+      "speed": 3,
+      "defense": 0,
+      "critical": 3,
+      "evasion": 5,
+      "accuracy": 87,
+      "abilities": ["runner"]
+    },
+    {
+      "id": "ZombieSpitter",
+      "name": "Zombie Spitter",
+      "difficulty": "Medium",
+      "hp": 60,
+      "speed": 3,
+      "defense": 0,
+      "critical": 3,
+      "evasion": 5,
+      "accuracy": 87,
+      "abilities": ["poisons"]
+    },
+    {
+      "id": "ZombieScreamer",
+      "name": "Zombie Screamer",
+      "difficulty": "Medium",
+      "hp": 50,
+      "speed": 3,
+      "defense": 0,
+      "critical": 3,
+      "evasion": 5,
+      "accuracy": 87,
+      "abilities": ["stun"]
+    },
+    {
+      "id": "ZombieBrute",
+      "name": "Zombie Brute",
+      "difficulty": "Hard",
+      "hp": 150,
+      "speed": 3,
+      "defense": 0,
+      "critical": 3,
+      "evasion": 5,
+      "accuracy": 87,
+      "abilities": ["strongAttack"]
+    },
+    {
+      "id": "ZombieTank",
+      "name": "Zombie Tank",
+      "difficulty": "Hard",
+      "hp": 200,
+      "speed": 3,
+      "defense": 0,
+      "critical": 3,
+      "evasion": 5,
+      "accuracy": 87,
+      "abilities": ["shield"]
+    },
+    {
+      "id": "ZombieBomber",
+      "name": "Zombie Bomber",
+      "difficulty": "Hard",
+      "hp": 100,
+      "speed": 3,
+      "defense": 0,
+      "critical": 3,
+      "evasion": 5,
+      "accuracy": 87,
+      "abilities": ["bomber"]
+    },
+    {
+      "id": "ZombieBerserker",
+      "name": "Zombie Berserker",
+      "difficulty": "VeryHard",
+      "hp": 120,
+      "speed": 3,
+      "defense": 0,
+      "critical": 3,
+      "evasion": 5,
+      "accuracy": 87,
+      "abilities": ["healing", "slowsArmy"]
+    },
+    {
+      "id": "ZombieMutant",
+      "name": "Zombie Mutant",
+      "difficulty": "VeryHard",
+      "hp": 250,
+      "speed": 3,
+      "defense": 0,
+      "critical": 3,
+      "evasion": 5,
+      "accuracy": 87,
+      "abilities": ["healing", "bleeding"]
+    },
+    {
+      "id": "ZombieSummoner",
+      "name": "Zombie Summoner",
+      "difficulty": "VeryHard",
+      "hp": 200,
+      "speed": 3,
+      "defense": 0,
+      "critical": 3,
+      "evasion": 5,
+      "accuracy": 87,
+      "abilities": ["healing", "summons"]
+    }
+  ]
+}

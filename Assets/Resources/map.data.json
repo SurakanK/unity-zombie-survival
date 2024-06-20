@@ -1,0 +1,76 @@
+{
+  "mapLevels": [
+    {
+      "level": 0,
+      "floorType": 0,
+      "size": {
+        "x": 100,
+        "y": 100
+      },
+      "noise": {
+        "x": 100,
+        "y": 100
+      },
+      "mapObject": []
+    },
+    {
+      "level": 1,
+      "floorType": 0,
+      "size": {
+        "x": 100,
+        "y": 100
+      },
+      "noise": {
+        "x": 100,
+        "y": 100
+      },
+      "mapObject": [
+        {
+          "mapObjectType": "grass",
+          "area": {
+            "x": 0.5,
+            "y": 1
+          },
+          "density": 25,
+          "modelType": []
+        },
+        {
+          "mapObjectType": "tree",
+          "area": {
+            "x": 0.5,
+            "y": 1
+          },
+          "density": 3000,
+          "modelType": []
+        },
+        {
+          "mapObjectType": "car",
+          "area": {
+            "x": 0.1,
+            "y": 0.3
+          },
+          "density": 10,
+          "modelType": []
+        },
+        {
+          "mapObjectType": "pillar",
+          "area": {
+            "x": 0.4,
+            "y": 0.5
+          },
+          "density": 100,
+          "modelType": [0, 1, 2, 3, 4]
+        },
+        {
+          "mapObjectType": "town",
+          "area": {
+            "x": 0.1,
+            "y": 0.25
+          },
+          "density": 10,
+          "modelType": [0, 1, 2]
+        }
+      ]
+    }
+  ]
+}
